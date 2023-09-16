@@ -81,19 +81,16 @@ width="100%">
 <!--Line-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--随机图片-->
-<img src="https://www.dmoe.cc/random.php/" height="100%" width="100%">
+<img src="https://api.ucany.net/acg-pc.php" height="100%" width="100%">
 
 
 <!--动作字体效果-->
 <h4 align=""> <table> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif"
-width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<td>
+width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td>
 <p align="center"> <font color=cyan><br>跑<br></font> <font color=cyan><br>Runing<br></font>
 <td>
-<p align="center> <br><br><br><br><br>
-
-<h1>Software and Tools</h1>
+<H1>Software and Tools</H1>
 
 ![Android Badge](https://img.shields.io/badge/Android-%233DDC84?logo=Android&logoColor=white)
 ![Redmi Badge](https://img.shields.io/badge/Redmi%20K50%20Ultra-%23FF6550?logo=xiaomi&logoColor=white)
