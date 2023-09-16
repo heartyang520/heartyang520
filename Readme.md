@@ -4,13 +4,13 @@
 <img src="https://profile-counter.glitch.me/heartyang520/count.svg">
 </div>
 <!-- 访问数据-鸭鸭-->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
+<div align=""> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif"width="20%">
 </div>
 <!--个人首页-->
 <details>
     <summary>
-        <h1> Demo</h1>
+        <h1> Vlog</h1>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/home.gif?raw=true">
 </details>
@@ -84,7 +84,7 @@ width="100%">
 <!-- About me 关于我 -->
 ### About Me
 <div>
-<img align="left" width="30%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/liebiao.png?raw=true"/>
+<img align="left" width="25%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/liebiao.png?raw=true"/>
 <p>&emsp;&emsp;大家好，我是 Heart Yang ，深度HSP人士</p>
 <p>&emsp;&emsp;热爱IT互联网事业，正在通过代码探索世界的美好</p>
 <p>&emsp;&emsp;双手缔造属于我的梦想，如果你有兴趣加入和我一起</p>
