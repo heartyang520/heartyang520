@@ -1,13 +1,24 @@
+<!--访问次数-->
+<h1>Watch</h1>
+<div align=left>
+<img src="https://profile-counter.glitch.me/heartyang520/count.svg">
+</div>
+<!-- 访问数据-鸭鸭-->
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif"width="20%">
+</div>
 <!--个人首页-->
 <details>
     <summary>
-        <h2> 主页</h2>
+        <h1> Demo</h1>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/home.gif?raw=true">
 </details>
 <table>
 <br>
 </br>
+
+
 <!-- 个人简介-->
 <div align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
 
@@ -25,7 +36,7 @@
 </div>
 
 <div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
-<img src="https://stats.justsong.cn/api/website/?url=https://www.google.com/&style=flat&logo=google">
+<img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
 <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
 <!--Line-->
@@ -67,36 +78,25 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"
 width="100%">
 
-<!-- 访问数据-鸭鸭-->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif"width="20%">
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### About Me
+<div>
+<img align="left" width="30%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/liebiao.png?raw=true"/>
+<p>&emsp;&emsp;大家好，我是 Heart Yang ，深度HSP人士</p>
+<p>&emsp;&emsp;热爱IT互联网事业，正在通过代码探索世界的美好</p>
+<p>&emsp;&emsp;双手缔造属于我的梦想，如果你有兴趣加入和我一起</p>
+<p><strong>&emsp;&emsp;🎈Contact me: <a href="https://t.me/+kq8ZsV9EGHQ0Zjhl/"> Telegram Personal Group ® </a> </strong>
 </div>
+</td></tr>
 
+<!--动作效果-->
+<h4 align="">  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4><td>
+<H1>PC_Software and Tools</H1>
+<!--文字-->
 
-<!--访问次数--> 
-<div align=left>
-<font color=orange><br>传送<br></font>
-<img src="https://profile-counter.glitch.me/heartyang520/count.svg">
-</div>
-<!--Line-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--随机图片-->
-<img src="https://api.ucany.net/acg-pc.php" height="100%" width="100%">
-
-
-<!--动作字体效果-->
-<h4 align=""> <table> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif"
-width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td>
-<p align="center"> <font color=cyan><br>跑<br></font> <font color=cyan><br>Runing<br></font>
-<td>
-<H1>Software and Tools</H1>
-
-![Android Badge](https://img.shields.io/badge/Android-%233DDC84?logo=Android&logoColor=white)
-![Redmi Badge](https://img.shields.io/badge/Redmi%20K50%20Ultra-%23FF6550?logo=xiaomi&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Xiaomi%20Pad%205%20for%20Windows%2FAndroid-%23000000?logo=SourceHut&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Redmi%20Watch%203-%23FF6900?logo=xiaomi&logoColor=white)
-<!--测试-->
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![911ME Badge](https://img.shields.io/badge/%E9%9B%B7%E7%A5%9E%20911%20ME-%23541BAE?logo=Alienware&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
@@ -105,8 +105,19 @@ width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 ![Static Badge](https://img.shields.io/badge/ubunto%20Linux-%23E95420?logo=ubuntu%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Deepin%20Linux-%23007CFF?logo=Deepin%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=Arch%20Linux&logoColor=white)
-
 ![Git Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub%20Desktop-%23181717?logo=GitHub&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub%20Desktop-%23EA4AAA?logo=Android&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+<td>
+
+
+</table>
+<table><td>
+<H1>PMD_Software and Tools</H1>
+<!--文字-->
+
+![Android Badge](https://img.shields.io/badge/Android-%233DDC84?logo=Android&logoColor=white)
+![Redmi Badge](https://img.shields.io/badge/Redmi%20K50%20Ultra-%23FF6550?logo=xiaomi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Xiaomi%20Pad%205%20for%20Windows%2FAndroid-%23000000?logo=SourceHut&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redmi%20Watch%203-%23FF6900?logo=xiaomi&logoColor=white)
+</table>
