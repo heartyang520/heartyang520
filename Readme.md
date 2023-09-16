@@ -1,16 +1,16 @@
 <!--访问次数-->
 <h1>Watch</h1>
-<div align=left>
+<div align="left">
 <img src="https://profile-counter.glitch.me/heartyang520/count.svg">
 </div>
 <!-- 访问数据-鸭鸭-->
-<div align=""> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif"width="20%">
 </div>
 <!--个人首页-->
 <details>
     <summary>
-        <h1> Vlog</h1>
+        <h1> Vlog_Tap here</h1>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/home.gif?raw=true">
 </details>
@@ -104,10 +104,27 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/RedHat%20Linux-%23EE0000?logo=RedHat%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ubunto%20Linux-%23E95420?logo=ubuntu%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Deepin%20Linux-%23007CFF?logo=Deepin%20Linux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=Arch%20Linux&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub%20Desktop-%23181717?logo=GitHub&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Telegram%20Desktop-%2326A5E4?logo=Telegram&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=Arch%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub%20Desktop-%23181717?logo=GitHub&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VMware%20Workstation%20Pro%20%E8%99%9A%E6%8B%9F%E6%9C%BA-%23607078?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tencent%20QQ-%23EB1923?logo=tencentqq&logoColor=white)
+![Static Badge](https://img.shields.io/badge/WeChat-%2307C160?logo=wechat&logoColor=white)
+![Static Badge](https://img.shields.io/badge/YouDao%20%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91-%23FF0000?logoColor=white)
+![Static Badge](https://img.shields.io/badge/WGestures%20%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF-%2340AEF0?logoColor=white)
+![Static Badge](https://img.shields.io/badge/uTools%20%20%E8%B6%85%E7%BA%A7%E9%9D%A2%E6%9D%BF-%230C0C0E?logoColor=white)
+![Static Badge](https://img.shields.io/badge/To%20Desk%20%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6-%2340AEF0?logoColor=white)
+![Static Badge](https://img.shields.io/badge/HuoRong%20%E7%81%AB%E7%BB%92%E7%94%B5%E8%84%91%E7%AE%A1%E5%AE%B6-%23FF9E0F?logoColor=white)
+
+
+
+
+
+![Git Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Thunder%20%E8%BF%85%E9%9B%B7-%230085CA?logoColor=white)
+
+
 <td>
 
 
