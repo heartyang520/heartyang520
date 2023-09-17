@@ -399,4 +399,4 @@ width="100%">
 
 <!---<video src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog2.mp4">  
 --->
-<video src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog.mp4?raw=true">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog.mp4?raw=true">
