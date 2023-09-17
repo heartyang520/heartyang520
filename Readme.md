@@ -219,7 +219,7 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/Aliyundrive%20%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98-%230D96F6?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/XunLei%20Pan%20%E8%BF%85%E9%9B%B7%E7%BD%91%E7%9B%98-%23EF7B4D?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Quark%20Pan%20%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98-%2368A51C?logoColor=white)
-![Static Badge](https://img.shields.io/badge/%E7%BD%91%E7%BB%9C%E7%99%BE%E5%AE%9D%E7%AE%B1-%230AC18E?logoColor=white)
+
 
 
 <td>
@@ -258,6 +258,7 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/AnXray%20VPN%E8%BF%9E%E6%8E%A5-%23FF9E0F?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gmail%20%E8%B0%B7%E6%AD%8C%E9%82%AE%E7%AE%B1-%239999FF?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Play%20Store%20%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97-%2368BC71?logoColor=white)
+![Static Badge](https://img.shields.io/badge/TapTap%20%E6%B8%B8%E6%88%8F%E5%95%86%E5%BA%97-%23892CA0?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/APKPure%20%E8%BD%AF%E4%BB%B6%E5%95%86%E5%BA%97-%2334E27A?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Telegram%20%E5%B0%8F%E9%A3%9E%E6%9C%BA-%235A45FF?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Twitter%20%E6%8E%A8%E7%89%B9-%23FF0000?logoColor=white)
@@ -364,7 +365,33 @@ width="100%">
 <H1>List of Games_Medals</H1>
 <!--文字-->
 
-![Static Badge](https://img.shields.io/badge/Richman%20%E5%A4%A7%E5%AF%8C%E7%BF%81-%230078C0?logoColor=white)
-![Static Badge](https://img.shields.io/badge/Super%20Bunny%20Man%20%E8%B6%85%E7%BA%A7%E5%85%94%E5%AD%90-%23FF9900?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Richman-%E5%A4%A7%E5%AF%8C%E7%BF%81-%2321C25E?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Super%20Bunny%20Man-%E8%B6%85%E7%BA%A7%E5%85%94%E5%AD%90-%23FF6600?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hill%20Climb%20Racing-%E7%99%BB%E5%B1%B1%E8%B5%9B%E8%BD%A6-%23FECE00?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Don't%20Tap%20The%20White%20Tile-%E5%88%AB%E8%B8%A9%E7%99%BD%E5%9D%97%E5%84%BF-%2361DAFB?logoColor=white)
+![Static Badge](https://img.shields.io/badge/CarrotFantasy%20-%E4%BF%9D%E5%8D%AB%E8%90%9D%E5%8D%9C-%23EE0000?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Happy%20Cancellation-%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90-%23FF7F7F?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ski%20Safari-%E6%BB%91%E9%9B%AA%E5%A4%A7%E5%86%92%E9%99%A9-%2300C805?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Plants%20vs.%20Zombies-%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8-%23525DDC?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Super%20Bomber%20Man-%E7%82%B8%E5%BC%B9%E8%B6%85%E4%BA%BA-%2357BCAD?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Fruit%20Ninja-%E6%B0%B4%E6%9E%9C%E5%BF%8D%E8%80%85-%23FFCB36?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Snake-%E8%B4%AA%E5%90%83%E8%9B%87-%2319A974?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Sokoban-%E6%8E%A8%E7%AE%B1%E5%AD%90-%230088FF?logoColor=white)
+![Static Badge](https://img.shields.io/badge/MapleStory-%E5%86%92%E9%99%A9%E5%B2%9B-%23AA00FF?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Contra-%E9%AD%82%E6%96%97%E7%BD%97-%23026664?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tetris-%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97-%23F3702A?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Super%20Mario%20Bros-%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F-%23892CA0?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E5%A4%A9%E5%A4%A9%E9%85%B7%E8%B7%91-%23009287?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E6%97%B6%E7%A9%BA%E7%8C%8E%E4%BA%BA-%23E27152?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88-%23DB7093?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E6%8D%95%E9%B1%BC%E8%BE%BE%E4%BA%BA-%2338A1CE?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81-%23B5B5B6?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80-%23FFDA44?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E7%90%83%E7%90%83%E5%A4%A7%E4%BD%9C%E6%88%98-%231BB91F?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98-%23FDB515?logoColor=white)
+![Static Badge](https://img.shields.io/badge/%E5%88%BA%E6%BF%80%E6%88%98%E5%9C%BA-%23FF0000?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Grand%20Theft%20Auto%20%EF%BC%9AVice%20City-%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B%EF%BC%9A%E7%BD%AA%E6%81%B6%E9%83%BD%E5%B8%82-%2366DEB1?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Grand%20Theft%20Auto%3ASan%20Andreas-%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B%EF%BC%9A%E5%9C%A3%E5%AE%89%E5%9C%B0%E6%96%AF%E5%88%97-%239F55FF?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Forza%20Horizon%205-%E5%9C%B0%E5%B9%B3%E7%BA%BF5-%230672CB?logoColor=white)
 
 </table>
