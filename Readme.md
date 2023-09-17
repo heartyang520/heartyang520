@@ -392,11 +392,15 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/Forza%20Horizon%205-%E5%9C%B0%E5%B9%B3%E7%BA%BF5-%230672CB?logoColor=white)
 
 </table>
-<!--
-<video width="320" height="240" controls autoplay muted>  
-      <source src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog2.mp4" type="video/mp4"> 
+<!--这是markdown 引用视频方式但是github不支持
+ <video width="100%" height="100%" controls autoplay muted>  
+      <source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
 -->
-
-<!---<video src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog2.mp4">  
---->
-<video src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog.mp4?raw=true">
+<!--这是视频播放地址  github不支持播放视频
+<video src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4">  
+-->
+<!--这是视频直接下载链接  github不支持播放视频
+<video src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true">
+-->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_b.gif?raw=true">
