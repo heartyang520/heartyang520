@@ -15,8 +15,8 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: heartyang520
-          svg_out_path:  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ SECRT_USERNAME_CESHI }}
+          svg_out_path:  snk/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -26,4 +26,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ SECRT_TOKEN_CESHI }}
