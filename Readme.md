@@ -402,12 +402,41 @@ width="100%">
 <!--这是视频直接下载链接  github不支持播放视频
 <video src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true">
 -->
-<table>
+<!--链接跳转方式播放视频
+![观看这个视频](https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4)
+-->
 
+<!--嵌套中放入一张类似视频播放界面的图片诱导用户点击跳转链接从而播放视频，当然这不是一个正确的方式
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/Vlog_a.mp4)
+-->
+
+
+<!--github不支持外部视频链接或者存储库视频直接调用,所以采用Readmi文件浏览生成的实时视频链接 多个视频展示留空一行>
+-->
+
+<!--添加视频注意,mp4格式最大10M,需要极致压缩,一般短视频平台下载的就行,需要剪辑视频片段可使用小米相册再使用微信传输(自动压缩)减小文件大小-->
+<H2>Favorite❤️Movie</H2>
+
+https://github.com/heartyang520/heartyang520/assets/51397676/141c1df7-d69d-4698-8c3b-f8d42fb7aa8c
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
+<details>
+    <summary>
+        <h3>Unfold</h3>
+    </summary>
 <!--Line跑码线-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_b.gif?raw=true">
 
-<video src="https://github.com/heartyang520/HeartYang.github.io/assets/51397676/0f2dc372-d9b0-4017-bbe4-ad979fa892c8">
+https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
+</details>
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
+<!--Line跑码线-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+
+
+
+
 
