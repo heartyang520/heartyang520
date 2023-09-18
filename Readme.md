@@ -5,7 +5,7 @@
 </div>
 <!-- 访问数据-鸭鸭-->
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif"width="20%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
 </div>
 <!--个人首页-->
 <details>
@@ -23,12 +23,12 @@
 <div align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
 
 <!-- Star 2023-->
-<div align="center"> <img src="https://i.imgur.com/q1PV6pF.png">
+<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
 
 <!-- 数据展示-主题&theme=radical-->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heartyang520&theme=radical&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
 
 <!--Link-Speed-->
@@ -40,42 +40,42 @@
 <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
 <!--Line跑码线-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <!--贡献速度-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heartyang520&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 <!-- Github数据展示-->
 <div align="center"> <img src="https://metrics.lecoq.io/heartyang520?template=classic&config.timezone=Asia%2Fchengdu"></div>
 <!-- 奖杯-->
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
 <!--Github奖杯数据展示-->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=heartyang520&theme=radical" />
 
 </div>
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <!--使用的语言-搬砖动画-->
-<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=heartyang520&theme=radical&show_icons=true><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40%">
+<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=heartyang520&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
 
 <!-- CSDN-bili 数据-->
 <div align=""> <img src="https://stats.justsong.cn/api/csdn/?id=qq_41095608&theme=radical#&lang=zh-CN"> <img src="https://stats.justsong.cn/api/bilibili/?id=327971083&theme=radical#&lang=zh-CN">
 </div>
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <!--极客挑战-->
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
+<img align='right' src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true" width="40%">
 <!--小火车-->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="50%" height="50%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
 
 <!--LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 <!--STATTITLE / WEBSITE: https://textanim.com/-->
-<p align="center"> <img src="https://i.imgur.com/YCw47Dm.gif">
+<p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/start.svg?raw=true">
  <!--SNAKETITLE / WEBSITE: https://textanim.com/ -->
-<p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/gongxianzhi?raw=true" width="500">
 <!--SNAKEGRAPH / WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/snk.svg?raw=true"
 width="100%">
 
 <table>
@@ -93,7 +93,7 @@ width="100%">
 </td></tr>
 
 <!--动作效果-->
-<h4 align=""> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
+<h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
 <!--电脑端-->
 
 <H2>PC_Software and Tool_Medals</H2>
@@ -415,6 +415,10 @@ width="100%">
 -->
 
 <!--添加视频注意,mp4格式最大10M,需要极致压缩,一般短视频平台下载的就行,需要剪辑视频片段可使用小米相册再使用微信传输(自动压缩)减小文件大小-->
+
+
+<!--资源更新地址<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/XXXX.gif?raw=true>
+-->
 <H2>Favorite❤️Movie</H2>
 
 https://github.com/heartyang520/heartyang520/assets/51397676/141c1df7-d69d-4698-8c3b-f8d42fb7aa8c
@@ -424,13 +428,13 @@ https://github.com/heartyang520/heartyang520/assets/51397676/141c1df7-d69d-4698-
         <h3>Unfold</h3>
     </summary>
 <!--Line跑码线-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
 </details>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
 <!--Line跑码线-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 
 
