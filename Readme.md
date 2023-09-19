@@ -18,11 +18,11 @@ https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-
 
 </details>
 
-# TThis page contains a lot of videos, please pay attention to traffic
+# This page contains a lot of videos, please pay attention to traffic
 <!--个人首页-->
 <details>
     <summary>
-        <h2> Vlog_Tap Here</h2>
+        <h2> Watch the Vlog video Here </h2>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/home.gif?raw=true">
 </details>
@@ -108,7 +108,7 @@ width="100%">
 <!--签名-->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=HeartYang_生活的解药">
 <!--电脑端-->
-<H2>PC_Software and Tool_Medals</H2>
+<H2>PC Software Tools Medals</H2>
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![911ME Badge](https://img.shields.io/badge/%E9%9B%B7%E7%A5%9E%20911%20ME-%23541BAE?logo=Alienware&logoColor=white)
@@ -235,7 +235,7 @@ width="100%">
 <td>
 </table>
 <table><td>
-<H2>PMD_Software and Tool_Medals</H2>
+<H2>Android software tools Medals</H2>
 <!--移动端-->
 
 ![Android Badge](https://img.shields.io/badge/Android-%233DDC84?logo=Android&logoColor=white)
@@ -370,7 +370,7 @@ width="100%">
 </table>
 
 <table><td>
-<H2>List of Games_Medals</H2>
+<H2>Game Badges</H2>
 <!--文字-->
 
 ![Static Badge](https://img.shields.io/badge/Richman-%E5%A4%A7%E5%AF%8C%E7%BF%81-%2321C25E?logoColor=white)
