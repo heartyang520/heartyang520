@@ -1,10 +1,8 @@
 <!--访问次数-->
-<h2>Watch</h2>
+<h2>Watching</h2>
 <div align="left">
 <img src="https://profile-counter.glitch.me/heartyang520/count.svg">
 </div>
-
-
 <!-- 访问数据-鸭鸭-->
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
@@ -96,8 +94,9 @@ width="100%">
 
 <!--动作效果-->
 <h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
+<!--签名-->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=HeartYang_生活的解药">
 <!--电脑端-->
-
 <H2>PC_Software and Tool_Medals</H2>
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -359,7 +358,6 @@ width="100%">
 
 </table>
 
-
 <table><td>
 <H2>List of Games_Medals</H2>
 <!--文字-->
@@ -394,6 +392,23 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/Forza%20Horizon%205-%E5%9C%B0%E5%B9%B3%E7%BA%BF5-%230672CB?logoColor=white)
 
 </table>
+<!--〜〜〜
+用Triple Tildes制成的盒子 （去掉波浪号之间的空隙以使这项工作有效）
+〜〜〜
+
+::: warning
+*here be dragons*
+:::
+
+
+〜〜〜
+用Triple Tildes制成的盒子 （去掉波浪号之间的空隙以使这项工作有效）
+〜〜〜
+
+
+-->
+
+
 <!--这是markdown 引用视频方式但是github不支持
 <video width="100%" height="100%" controls autoplay muted>
 <source src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.mp4?raw=true" type="video/mp4">  
@@ -561,5 +576,6 @@ https://github.com/heartyang520/heartyang520/assets/51397676/4237833f-0ef2-4fda-
     </summary>
 
 https://github.com/heartyang520/heartyang520/assets/51397676/3fe0fb99-c633-4631-a73a-25137066b28f
+
 
 
