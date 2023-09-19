@@ -22,7 +22,7 @@ https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-
 <!--个人首页-->
 <details>
     <summary>
-        <h2> Watch the Vlog video Here </h2>
+        <h2> Watch the Vlog </h2>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/home.gif?raw=true">
 </details>
