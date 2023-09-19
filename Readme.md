@@ -9,6 +9,14 @@
 </div>
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
+
+<details>
+    <summary>
+        <h2>Play Music</h2>
+    </summary>
+
+https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-9cc0-4ab3e3b31aa4
+</details>
 <!--个人首页-->
 <details>
     <summary>
@@ -19,6 +27,7 @@
 <table>
 <br>
 </br>
+
 <!-- 个人简介-->
 <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
 <br><br>
