@@ -10,7 +10,7 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
 <details>
     <summary>
-        <h3>Share QR</h3>
+        <h2>Share QR</h2>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_d.png?raw=true"width="20%">
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_f.png?raw=true"width="20%">
