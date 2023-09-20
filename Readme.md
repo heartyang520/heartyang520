@@ -4,10 +4,19 @@
 <img src="https://profile-counter.glitch.me/heartyang520/count.svg">
 </div>
 <!-- 访问数据-鸭鸭-->
-<div align="center"><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_a.png?raw=true"width="20%"><td><img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
+<div align="center"><img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="10%">
 </div>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
+<details>
+    <summary>
+        <h3>Share QR</h3>
+    </summary>
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_d.png?raw=true"width="20%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_f.png?raw=true"width="20%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_e.png?raw=true"width="20%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_g.gif?raw=true"width="20%">
+</details>
 <details>
     <summary>
         <h2>Play Music</h2>
@@ -17,7 +26,7 @@ https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-
 
 </details>
 
-## This page contains a lot of videos, please pay attention to traffic
+### This page contains a lot of videos, please pay attention to traffic
 <!--个人首页-->
 <details>
     <summary>
