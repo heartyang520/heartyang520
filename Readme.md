@@ -10,7 +10,7 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
 <details>
     <summary>
-        <h3>Share QR</h3>
+        <h2>Share QR</h2>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_d.png?raw=true"width="20%">
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_f.png?raw=true"width="20%">
@@ -26,7 +26,7 @@ https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-
 
 </details>
 
-### This page contains a lot of videos, please pay attention to traffic
+###### This page contains a lot of videos, please pay attention to traffic
 <!--个人首页-->
 <details>
     <summary>
