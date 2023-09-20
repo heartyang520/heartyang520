@@ -4,8 +4,8 @@
 <img src="https://profile-counter.glitch.me/heartyang520/count.svg">
 </div>
 <!-- 访问数据-鸭鸭-->
-<div align="center"><img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="10%">
+<div align="center"><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_c.gif?raw=true"width="5%"><img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="5%">
 </div>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
 <details>
@@ -22,11 +22,11 @@
         <h2>Play Music</h2>
     </summary>
 
-https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-9cc0-4ab3e3b31aa4
+<https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-9cc0-4ab3e3b31aa4>
 
 </details>
 
-### This page contains a lot of videos, please pay attention to traffic
+###### This page contains a lot of videos, please pay attention to traffic
 <!--个人首页-->
 <details>
     <summary>
