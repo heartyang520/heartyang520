@@ -244,7 +244,7 @@ width="100%">
 </table>
 <table><td>
 <H2>Android software tools Medals</H2>
-<!--移动端-->
+<!--安卓徽章-->
 
 ![Android Badge](https://img.shields.io/badge/Android-%233DDC84?logo=Android&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Xiaomi%20Pad%205%20for%20Windows%2FAndroid-%2329F1FB?logo=SourceHut&logoColor=white)
@@ -374,12 +374,29 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/%E7%88%B1%E7%8E%A9%E6%9C%BA%E5%B7%A5%E5%85%B7%E7%AE%B1-%23E7157B?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%E7%BB%99%E6%9C%AA%E6%9D%A5%E5%86%99%E5%B0%81%E4%BF%A1-%2300CEC8?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%E7%BD%91%E7%BB%9C%E7%99%BE%E5%AE%9D%E7%AE%B1-%230AC18E?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Xiangzuobiji%20%E4%BA%AB%E5%81%9A%E7%AC%94%E8%AE%B0-%23004088)
+![Static Badge](https://img.shields.io/badge/flomo%20%E7%AC%94%E8%AE%B0-%23FF6550)
+![Static Badge](https://img.shields.io/badge/%E5%8E%9F%E7%A5%9E%E6%A1%8C%E5%AE%A0-%235A45FF)
+![Static Badge](https://img.shields.io/badge/Shimeji%20%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9-%23FF61F6)
+![Static Badge](https://img.shields.io/badge/%E5%85%BD%E8%80%B3%E5%8A%A9%E6%89%8B-%237E4DD2)
+![Static Badge](https://img.shields.io/badge/Live2DViewerEX%20%E5%8F%AF%E4%BA%92%E5%8A%A82D%E6%A1%8C%E9%9D%A2-%23FFDF6F)
+![Static Badge](https://img.shields.io/badge/%E8%B5%9B%E5%8D%9A%E5%A5%B3%E5%8F%8B-%23C925D1)
+![Static Badge](https://img.shields.io/badge/VRoid%20%E4%BA%8C%E6%AC%A1%E5%85%83%E6%A8%A1%E5%9E%8B%E5%88%B6%E4%BD%9C-%230078D2)
+![Static Badge](https://img.shields.io/badge/QR%20Generator%20%26%20Scanner%20%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%88%B6%E4%BD%9C-%2349B48A)
+![Static Badge](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9-%2301FF95)
+![Static Badge](https://img.shields.io/badge/%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91%E5%A4%A7%E5%B8%88-%237952B3)
+![Static Badge](https://img.shields.io/badge/Photoshop%20Express%20%E7%85%A7%E7%89%87%E7%BC%96%E8%BE%91%E5%99%A8-%23F26822)
+![Static Badge](https://img.shields.io/badge/%E5%9D%87%E8%A1%A1%E5%99%A8-%23000000)
+![Static Badge](https://img.shields.io/badge/Poweramp%20%E9%9F%B3%E4%B9%90%E5%9D%87%E8%A1%A1%E5%99%A8-%230000FF)
+![Static Badge](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%23FF9C42)
+
+
 
 </table>
 
 <table><td>
 <H2>Game Badges</H2>
-<!--文字-->
+<!--游戏徽章-->
 
 ![Static Badge](https://img.shields.io/badge/Richman-%E5%A4%A7%E5%AF%8C%E7%BF%81-%2321C25E?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Super%20Bunny%20Man-%E8%B6%85%E7%BA%A7%E5%85%94%E5%AD%90-%23FF6600?logoColor=white)
@@ -409,6 +426,8 @@ width="100%">
 ![Static Badge](https://img.shields.io/badge/Grand%20Theft%20Auto%20%EF%BC%9AVice%20City-%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B%EF%BC%9A%E7%BD%AA%E6%81%B6%E9%83%BD%E5%B8%82-%2366DEB1?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Grand%20Theft%20Auto%3ASan%20Andreas-%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B%EF%BC%9A%E5%9C%A3%E5%AE%89%E5%9C%B0%E6%96%AF%E5%88%97-%239F55FF?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Forza%20Horizon%205-%E5%9C%B0%E5%B9%B3%E7%BA%BF5-%230672CB?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tom%20and%20Jerry-%E6%B1%A4%E5%A7%86%E7%8C%AB-%23007054)
+
 
 </table>
 <!--〜〜〜
@@ -597,4 +616,7 @@ https://github.com/heartyang520/heartyang520/assets/51397676/4237833f-0ef2-4fda-
 https://github.com/heartyang520/heartyang520/assets/51397676/3fe0fb99-c633-4631-a73a-25137066b28f
 
 
-
+<!--更新日志
+2023.9.24-----------------
+增加新的徽章
+-->
