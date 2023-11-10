@@ -8,6 +8,9 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
 </div>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
+<div>
+    <h3>❤️点击获取</h3> <a href="https://heartyang520.github.io/Galaxy-Network-Desktop/"> 
+</div>
 <details>
     <summary>
         <h2>Share QR</h2>
