@@ -9,7 +9,7 @@
 </div>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
 <div>
-<p><strong>&emsp;&emsp; <a href="https://heartyang520.github.io/Galaxy-Network-Desktop/">  Click to get ❤️® </a> </strong>
+<p><strong>&emsp;&emsp; <a href="https://heartyang520.github.io/Galaxy-Network-Interactive-Desktop">  Click to get ❤️® </a> </strong>
 </div>
 <details>
     <summary>
