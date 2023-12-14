@@ -109,8 +109,8 @@ width="100%">
 <img align="left" width="25%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/liebiao.png?raw=true"/>
 <p>&emsp;&emsp;大家好，我是 Heart Yang ，深度HSP人士</p>
 <p>&emsp;&emsp;热爱IT互联网事业，正在通过代码探索世界的美好</p>
-<p>&emsp;&emsp;双手缔造属于我的梦想，如果你有兴趣加入和我一起</p>
-<p><strong>&emsp;&emsp;🎈Contact me_hidden in the address: <a href="qq_2056084473"> Telegram Personal Group ® </a> </strong>
+<p>&emsp;&emsp;缔造属于我的梦想，如果你有兴趣和我交流，我会很开心！</p>
+<p><strong>&emsp;&emsp;🎈Contact me_hide in URL address bar: <a href="qq_2056084473@gmail.com"> Google Mail ® </a> </strong>
 </div>
 </td></tr>
 
